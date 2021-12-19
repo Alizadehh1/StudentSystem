@@ -1,0 +1,16 @@
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\bin\Debug\net5.0\TaskStudentMenu.exe
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\bin\Debug\net5.0\TaskStudentMenu.deps.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\bin\Debug\net5.0\TaskStudentMenu.runtimeconfig.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\bin\Debug\net5.0\TaskStudentMenu.runtimeconfig.dev.json
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\bin\Debug\net5.0\TaskStudentMenu.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\bin\Debug\net5.0\ref\TaskStudentMenu.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\bin\Debug\net5.0\TaskStudentMenu.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\obj\Debug\net5.0\TaskStudentMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\obj\Debug\net5.0\TaskStudentMenu.AssemblyInfoInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\obj\Debug\net5.0\TaskStudentMenu.AssemblyInfo.cs
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\obj\Debug\net5.0\TaskStudentMenu.csproj.CoreCompileInputs.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\obj\Debug\net5.0\TaskStudentMenu.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\obj\Debug\net5.0\ref\TaskStudentMenu.dll
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\obj\Debug\net5.0\TaskStudentMenu.pdb
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\obj\Debug\net5.0\TaskStudentMenu.genruntimeconfig.cache
+C:\Users\alide\OneDrive\Desktop\Tasks(c#)\TaskStudentMenu\TaskStudentMenu\obj\Debug\net5.0\TaskStudentMenu.csproj.AssemblyReference.cache
