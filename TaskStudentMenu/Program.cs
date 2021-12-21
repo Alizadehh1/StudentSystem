@@ -133,14 +133,17 @@ namespace TaskStudentMenu
                                     case 2:
                                         {
                                             Console.Clear();
+                                            
                                             Console.WriteLine("List of Students");
                                             
                                             foreach (var item in ls)
-                                            {
+                                            {                
                                                 Console.Write($"[{count}]");
                                                 Console.WriteLine(item);
                                                 count++;
                                             }
+                                            
+
                                             Console.Write("Remove by index:");
                                             index = Convert.ToInt32(Console.ReadLine());
                                             ls.RemoveAt(index-1);

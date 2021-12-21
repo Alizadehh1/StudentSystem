@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\TaskStudentMenu\\TaskStudentMenu\\TaskStudentMenu.csproj": {}
+    "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\StudentSystem\\TaskStudentMenu\\TaskStudentMenu.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\TaskStudentMenu\\TaskStudentMenu\\TaskStudentMenu.csproj": {
+    "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\StudentSystem\\TaskStudentMenu\\TaskStudentMenu.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\TaskStudentMenu\\TaskStudentMenu\\TaskStudentMenu.csproj",
+        "projectUniqueName": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\StudentSystem\\TaskStudentMenu\\TaskStudentMenu.csproj",
         "projectName": "TaskStudentMenu",
-        "projectPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\TaskStudentMenu\\TaskStudentMenu\\TaskStudentMenu.csproj",
+        "projectPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\StudentSystem\\TaskStudentMenu\\TaskStudentMenu.csproj",
         "packagesPath": "C:\\Users\\alide\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\TaskStudentMenu\\TaskStudentMenu\\obj\\",
+        "outputPath": "C:\\Users\\alide\\OneDrive\\Desktop\\Tasks(c#)\\StudentSystem\\TaskStudentMenu\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alide\\AppData\\Roaming\\NuGet\\NuGet.Config",
