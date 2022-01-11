@@ -18,7 +18,7 @@ namespace TaskStudentMenu
             bool cancel = true;
             bool cancel1 = true;
             bool cancel2 = true;
-            List<Student> ls = LoadFromFile(fileName);
+            GenericStore<Student> ls = LoadFromFile(fileName);
             while (cancel1!=false)
             {
                 salam:
@@ -211,7 +211,7 @@ namespace TaskStudentMenu
             Console.WriteLine("5)Back to Main Menu");
         }
         [Obsolete]
-        static void SaveToFile(List<Student> ls,string fileName)
+        static void SaveToFile(GenericStore<Student> ls,string fileName)
         {
             using (var fs = new FileStream(fileName, FileMode.OpenOrCreate, FileAccess.Write))
             {
@@ -220,7 +220,7 @@ namespace TaskStudentMenu
             }
         }
         [Obsolete]
-        static List<Student> LoadFromFile(string fileName)
+        static GenericStore<Student> LoadFromFile(string fileName)
         {
             try
             {
@@ -228,14 +228,14 @@ namespace TaskStudentMenu
                 {
                     BinaryFormatter bf = new BinaryFormatter();
 
-                    return (List<Student>)bf.Deserialize(fs);
+                    return (GenericStore<Student>)bf.Deserialize(fs);
 
                 }
             }
             catch (Exception)
             {
 
-                return new List<Student>();
+                return new GenericStore<Student>();
             }
         }      
     }
